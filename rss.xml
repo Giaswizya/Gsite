@@ -2,29 +2,144 @@
 <rss version="2.0">
     <channel>
         <title>be the best of the best</title>
-        <link>https://www.giaswizya.my.id</link>
+        <subtitle>If it was easy, everybody could do it!</subtitle>
+        <icon>https://me.giaswizya.my.id/images/favicon.ico</icon>
+        <link>https://me.giaswizya.my.id</link>
+        <author>
+          <name>GIAS WIJAYA</name>
+        </author>
         <description>“Tomorrow is a day that never arrives&#34;</description>
         <language>en</language>
-        <pubDate>Sat, 26 Nov 2022 23:56:22 +0700</pubDate>
-        <lastBuildDate>Sat, 26 Nov 2022 23:56:22 +0700</lastBuildDate>
+        <pubDate>Tue, 18 Jan 2022 01:52:49 +0700</pubDate>
+        <lastBuildDate>Tue, 18 Jan 2022 01:52:49 +0700</lastBuildDate>
+        <category term="Bliss" />
         <item>
-            <guid isPermalink="true">https://www.giaswizya.my.id/hello-world/</guid>
-            <title>Hello World</title>
-            <link>https://www.giaswizya.my.id/hello-world/</link>
-            <pubDate>Sat, 26 Nov 2022 23:56:22 +0700</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+            <guid isPermalink="true">https://me.giaswizya.my.id/C++/</guid>
+            <title>Portofolio C++</title>
+            <link>https://me.giaswizya.my.id/C++/</link>
+            <category term="C++" scheme="https://me.giaswizya.my.id/categories/C/" />
+            <category term="C++" scheme="https://me.giaswizya.my.id/tags/C/" />
+            <pubDate>Tue, 18 Jan 2022 01:52:49 +0700</pubDate>
+            <description><![CDATA[ &lt;p&gt;Bahasa Pemrograman C++ adalah bahasa pemrograman komputer yang bisa dipakai untuk membuat berbagai aplikasi&lt;br /&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;br /&gt;
+(general-purpose programming language), dan merupakan pengembangan dari bahasa pemrograman C.&lt;/p&gt;
+&lt;p&gt;Bahasa C++ kadang disebut juga sebagai “C with Classes“. Ini karena perbedaan paling utama antara bahasa C dan C++ ada di dukungan ke pemrograman berbasis object (object oriented programming). Bahasa C++ sudah mendukung pemrograman berbasis object, sedangkan bahasa C belum.&lt;/p&gt;
+&lt;p&gt;Karena termasuk general-purpose programming language, yakni bahasa pemrograman yang bisa membuat berbagai aplikasi, bahasa pemrograman C++ bisa dipakai untuk membuat aplikasi desktop seperti antivirus, software pengolah gambar (image processing), aplikasi pengolah kata (word processing), hingga untuk membuat compiler bahasa pemrograman lain.&lt;/p&gt;
+&lt;h3 id=&#34;contoh-program-c&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#contoh-program-c&#34;&gt;#&lt;/a&gt; Contoh Program C++&lt;/h3&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;#include&amp;lt;iostream&amp;gt;
+using namespace std;
 
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+int main(){
+    cout&amp;lt;&amp;lt;&amp;quot;Helo Word&amp;quot;;
+ }&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://me.giaswizya.my.id/List-of-Microsoft-Office-2016-Product-Keys-are/</guid>
+            <title>List Product Keys Microsoft Office 2016</title>
+            <link>https://me.giaswizya.my.id/List-of-Microsoft-Office-2016-Product-Keys-are/</link>
+            <category term="Windows" scheme="https://me.giaswizya.my.id/categories/Windows/" />
+            <category term="Windows" scheme="https://me.giaswizya.my.id/tags/Windows/" />
+            <pubDate>Tue, 16 Nov 2021 19:23:14 +0700</pubDate>
+            <description><![CDATA[ &lt;p&gt;Product Key Microsoft Office 2016 adalah kunci yang akan memberikan Anda untuk bekerja dengan Office 2016 profesional plus.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Jika Anda menggunakan Office 365, Anda dapat dengan mudah memutakhirkan ke Office 2016 menggunakan Kunci Produk MS Office 2016.&lt;/p&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;KXYCN-Y6WP3-YBCBB-VPD4Q-B9892
+M7BNF-9JMBW-62CQ4-9C7CX-7XM3P
+FTBVR-NWTWX-XV3K7-DRC6V-YY6K2
+4N4XG-BBQWM-G4TM7-GY7K9-WTY3P
+FCMXC-RDWMP-RFGVD-8TGPD-VQQ2X
+PGD67-JN23K-JGVWW-KTHP4-GXR9G
+B9GN2-DXXQC-9DHKT-GGWCR-4X6XK
+6PMNJ-Q33T3-VJQFJ-23D3H-6XVTX
+MT7YN-TMV9C-7DDX9-64W77-B7R4D
+DJKSE-DFJS93-DFJKD94JD-DJKD94JD
+DJD94-DFKD9-FJD94JD894-FJKD94JD&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;h4 id=&#34;microsoft-office-2016-activation-key&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#microsoft-office-2016-activation-key&#34;&gt;#&lt;/a&gt; Microsoft Office 2016 Activation Key&lt;/h4&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;FBFPP-2XG5Y-FG9VH-DVQ2Z-QJRCH
+P8TFP-JGFMM-XPV3X-3FQM2-8K4RP
+2MHJR-V4MR2-V4Z2Y-72MQ7-KC6XK
+H746C-BM4VK-TZBB8-MVZH8-FXR32&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://me.giaswizya.my.id/buat-blog-menggunakan-Hexo/</guid>
+            <title>Membuat Blog dengan Hexo</title>
+            <link>https://me.giaswizya.my.id/buat-blog-menggunakan-Hexo/</link>
+            <category term="Tutorial" scheme="https://me.giaswizya.my.id/categories/Tutorial/" />
+            <category term="Hexo" scheme="https://me.giaswizya.my.id/tags/Hexo/" />
+            <pubDate>Sat, 23 Oct 2021 07:00:00 +0700</pubDate>
+            <description><![CDATA[ &lt;p&gt;Hexo adalah framework blog sederhana yang didukung oleh Node.js. Web statis generator ini sangat cepat dan hanya membutuhkan waktu beberapa detik untuk membangun website yang lengkap.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Hexo mendukung semua fitur GitHub-flavored Markdown dan sebagian besar plugin Octopress. Salah satu keuntungan utama dari Hexo adalah memungkinkan Anda untuk mentransfer blog atau situs ke web host dengan satu perintah.&lt;br /&gt;
+Pastikan kamu sudah Install Git.&lt;/p&gt;
+&lt;h2 id=&#34;mulai-membuat-blog&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mulai-membuat-blog&#34;&gt;#&lt;/a&gt; Mulai Membuat Blog&lt;/h2&gt;
+&lt;p&gt;Hal utama yang dibutuhkan dalam membuat blog menggunakan Hexo ini adalah sedikit pemahaman tentang Git/Github dan sintak markdown. Sebelum lamnjut, silakan buat terlebih dahulu repositori yang nantinya akan digunakan untuk menyimpan berkas-berkas web/blog Anda.&lt;/p&gt;
+&lt;p&gt;Nama repository yang digunakan biasanya adalah &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL25hbWF1c2VyLmdpdGh1Yi5pbw==&#34;&gt;namauser.github.io&lt;/span&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;memasang-hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#memasang-hexo&#34;&gt;#&lt;/a&gt; Memasang Hexo&lt;/h3&gt;
+&lt;p&gt;Pasang Hexo pada sistem Anda memelalui perintah berikut.&lt;/p&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;$ npm install hexo-cli -g
+$ hexo init blog
+$ cd blog
+$ npm install
+$ hexo server&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;pastikan npm sudah terpasang pada sistem operasi yang Anda gunakan&lt;br /&gt;
+untuk menjalankan perintah-perintah di atas.&lt;/p&gt;
+&lt;p&gt;Jika Berhasil, dalam direktori blog Anda akan menemukan beberapa direktori dan berkas berikut ini.&lt;/p&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;.
+├── _config.yml
+├── package.json
+├── scaffolds
+├── source
+|   ├── _drafts
+|   └── _posts
+└── themes&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;Silakan sunting berkas _config.yml sesuai dengan yang Anda inginkan. Pengaturan dasar situs/blog Anda berada pada berkas ini. Beberapa pengaturan yang dapat Anda ubah, antara lain;&lt;/p&gt;
+&lt;p&gt;nama blog&lt;br /&gt;
+subnama&lt;br /&gt;
+deskripsi/keterangan&lt;br /&gt;
+alamat blog&lt;br /&gt;
+tema default pos&lt;br /&gt;
+dll&lt;/p&gt;
+&lt;p&gt;Untuk mempermudah Anda dalam men-deploy berkas lokal Anda ke repostory Github, saya sarankan untuk memasang Plugin hexo-deployer-plugin. Cara pemasangannya cukup mudah, cukup jalankan perintah&lt;/p&gt;
+&lt;p&gt;npm install hexo-deployer-git --save&lt;/p&gt;
+&lt;p&gt;pada direktori blog Anda.&lt;br /&gt;
+Jika sudah, sunting kembali berkas _config.yml, kemudian isikan data berikut ke dalam berkas tersebut;&lt;/p&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;deploy:
+type: git
+repo: repository url
+branch: [branch]
+message: [message]&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;Untuk lebih jelasnya, Silakan kalian perhatikan contoh berikut;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;deploy:
+type: git
+repo: https://github.com/giaswizya/gias.github.io
+branch: master
+message: &amp;quot;&amp;#123;&amp;#123; now(&#39;YYYY-MM-DD HH:mm:ss&#39;) &amp;#125;&amp;#125;&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Selesailah pengaturan dasar blog Anda.&lt;/p&gt;
+&lt;h2 id=&#34;mulai-menulis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mulai-menulis&#34;&gt;#&lt;/a&gt; Mulai Menulis&lt;/h2&gt;
+&lt;p&gt;Untuk membuat sebuah pos, cukup jalan perintah;&lt;/p&gt;
+&lt;p&gt;hexo new post &amp;quot;Judul Pos&amp;quot;&lt;/p&gt;
+&lt;p&gt;secara otomatis, Hexo akan membuat berkas berjudul “Judul &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL1Bvcy5tZA==&#34;&gt;Pos.md&lt;/span&gt;” pada direktori source/_post. Hexo juga memungkinkan Anda untuk membuat Draft terlebih dahulu untuk tulisan-tulisan Anda atau sebuah halaman khusus jika Anda menginginkannya.&lt;/p&gt;
+&lt;p&gt;hexo new draft &amp;quot;judul draft&amp;quot;&lt;/p&gt;
+&lt;p&gt;atau&lt;/p&gt;
+&lt;p&gt;hexo new page &amp;quot;judul Gias&amp;quot;&lt;br /&gt;
+Silakan sunting berkas *.md yang telah digenerate tadi menggunakan pengolah teks favorit Kamu.&lt;/p&gt;
+&lt;h2 id=&#34;server-generate-dan-deploy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#server-generate-dan-deploy&#34;&gt;#&lt;/a&gt; Server, Generate, dan Deploy&lt;/h2&gt;
+&lt;p&gt;Setelah menulis, Anda dapat melihat pratayang perubahan yang baru saja Anda lakukan&lt;br /&gt;
+dengan menjalankan perintah;&lt;br /&gt;
+hexo server atau hexo server --draft&lt;br /&gt;
+&lt;pre&gt;&lt;code&gt;git init
+git add.
+git remote add origin (Link Repo kalian)
+git commit -m &amp;quot;1st commit&amp;quot;
+git push origin master&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;dan silakan lihat hasilnya pada tautan &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xvY2FsaG9zdDo0MDAwLw==&#34;&gt;http://localhost:4000/&lt;/span&gt;.&lt;br /&gt;
+Jika telah sesuai, silakan publish tulisan Anda dengan perintah;&lt;/p&gt;
+&lt;p&gt;&lt;pre&gt;&lt;code&gt;$ hexo generate
+$ hexo deploy&lt;/code&gt;&lt;/pre&gt;&lt;br /&gt;
+Selamat, situs Anda telah tayang!&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
